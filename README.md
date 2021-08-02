@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 My name is Gustavo Theotonio
+</br>
 
-<!--
-**gustavoTheot/gustavoTheot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciencia da Computação pela UFPB e Graduado em Técnico de Informática pela IFPB;
+</br>
+Preferência por desenvolvimento web;
+</br>
+Aprender coisas novas sempre é bom, quem dirá desenvoler novos projetos .
+</br>
 
-Here are some ideas to get you started:
+### Studying:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML 
+- <img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS
+- <img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/> JavaScript
+- <img src="https://img.icons8.com/office/20/000000/react.png"/> React
+- <img src="https://img.icons8.com/color/20/000000/python--v1.png"/> Python
