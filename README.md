@@ -5,7 +5,7 @@ Sou estudante de Ciencia da Computação pela UFPB e Graduado em Técnico de Inf
 </br>
 Preferência por desenvolvimento web;
 </br>
-Aprender coisas novas sempre é bom, quem dirá desenvoler novos projetos .
+Aprender coisas novas sempre é bom, quem dirá desenvoler novos projetos.
 </br>
 
 ### Studying:
