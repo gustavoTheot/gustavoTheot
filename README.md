@@ -11,4 +11,4 @@ Aprender coisas novas sempre é bom, quem dirá desenvoler novos projetos.
 ### Studying:
 
 - <img src="https://img.icons8.com/office/20/000000/react.png"/> ReactJS
-- <img src="https://img.icons8.com/ios/50/null/react-native--v1.png"/> React Native
+- <img src="https://img.icons8.com/nolan/20/react-native.png"/> React Native
