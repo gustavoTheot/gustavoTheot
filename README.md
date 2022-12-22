@@ -10,6 +10,5 @@ Aprender coisas novas sempre é bom, quem dirá desenvoler novos projetos.
 
 ### Studying:
 
-- <img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/> JavaScript
-- <img src="https://img.icons8.com/office/20/000000/react.png"/> React
-- <img src="https://img.icons8.com/color/20/000000/python--v1.png"/> Python
+- <img src="https://img.icons8.com/office/20/000000/react.png"/> ReactJS
+- <img src="[https://img.icons8.com/color/20/000000/python--v1.png](https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png)"/> React Native
