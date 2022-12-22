@@ -11,4 +11,4 @@ Aprender coisas novas sempre é bom, quem dirá desenvoler novos projetos.
 ### Studying:
 
 - <img src="https://img.icons8.com/office/20/000000/react.png"/> ReactJS
-- <img src="[https://img.icons8.com/color/20/000000/python--v1.png](https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png)"/> React Native
+- <img src="[https://www.flaticon.com/free-icon/react_919851?term=react&page=1&position=1&origin=search&related_id=919851](https://icons8.com.br/icon/t5K2CR8feVdX/reagir)"/> React Native
