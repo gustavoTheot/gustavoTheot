@@ -1,16 +1,8 @@
 ### Hi there 👋 My name is Gustavo Theotonio
 </br>
 
-Sou estudante de Ciencia da Computação pela UFPB e Graduado em Técnico de Informática pela IFPB;
+Graduando em Ciência da Computação na Universidade Federal da Paraíba e formado em Tecnologia da Informação no Instituto Federal da Paraíba. 
 </br>
-Preferência por desenvolvimento web;
-</br>
-Aprender coisas novas sempre é bom, quem dirá desenvoler novos projetos.
-</br>
+Apaixonado por tecnologia e a possibilidade que se tem de solucionar problemas e realizar melhorias no mundo através dela, decidi escolher essa área e ao decorrer dos anos de estudos consegui desenvolver Skills em SQL, HTML5, CSS, TypeScript, ReactJS, Styled Components, Node.js, Java, Maven, Junit, Python, Git e GitHub. 
 
-### Studying:
-
-- <img src="https://img.icons8.com/office/20/000000/react.png"/> ReactJS
-- <img src="https://img.icons8.com/dusk/20/null/react.png"/> React Native
-- <img src="https://img.icons8.com/fluency/20/null/node-js.png"/> NodeJs
 
