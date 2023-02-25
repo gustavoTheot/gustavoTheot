@@ -2,6 +2,14 @@
 </br>
 
 Passionate about technology and the possibility of solving problems and making improvements in the world through it. I'm a <strong> Web Developer </strong> and I'm following a path to be full-stack, as well as knowledge in the use of Agile Methodologies, Design thinking, Software Project Management.
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoTheot&show_icons=true&theme=material-palenight" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoTheot&layout=compact&theme=material-palenight&https://github.com/anuraghazra/github-readme-stats" />
+ 
+</div>
+
+
 #
 ### Skills
 <div>
