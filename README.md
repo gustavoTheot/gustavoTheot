@@ -1,9 +1,9 @@
-### Ji guys 👋. My name is Gustavo Theotonio
+### Hi guys 👋. My name is Gustavo Theotonio
 </br>
 
 - 🌱 I have more affinity with web development using React.js and Node.js. But I also have experience with technologies that are below
 - 🎓 Bachelor's Degree in Computer Science at UFPB
-- ✋ I'm Gustavo Teotonio. I am enchanted by the possibility that technology offers us to solve problems
+- ✋ I'm Gustavo Teotonio. I'm enchanted by the possibility that technology offers us to solve problems
 - 🔭 I'm currently studying Next.js, MongoDB and Testing
 - 📪 Contact me gustavotheotonio46@gmail.com
 </br>
