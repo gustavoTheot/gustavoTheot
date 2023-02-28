@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Gustavo Theotonio
+### Ji guys 👋. My name is Gustavo Theotonio
 </br>
 
 - 🌱 I have more affinity with web development using React.js and Node.js. But I also have experience with technologies that are below
