@@ -4,12 +4,11 @@
 - 🌱 I have more affinity with web development using React.js and Node.js. But I also have experience with technologies that are below
 - 🎓 Bachelor's Degree in Computer Science at UFPB
 - ✋ I'm Gustavo Theotonio. I'm enchanted by the possibility that technology offers us to solve problems
-- 🔭 I'm currently studying Design System, Spring Boot and Testing
+- 🔭 I'm currently studying Design System and Devops
 - 📪 Contact me gustavotheotonio46@gmail.com
 </br>
 
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavoTheot&show_icons=true&theme=material-palenight" /> 
+<div align='flex-start'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoTheot&layout=compact&theme=material-palenight&https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
@@ -27,7 +26,10 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 
