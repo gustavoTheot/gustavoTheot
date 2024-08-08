@@ -1,10 +1,10 @@
 ### Hi guys 👋. My name is Gustavo Theotonio
 </br>
 
-- 🌱 I have more affinity with web development using React.js and Node.js. But I also have experience with technologies that are below
+- 🌱 I have more affinity with software developer.
 - 🎓 Bachelor's Degree in Computer Science at UFPB
 - ✋ I'm Gustavo Theotonio. I'm enchanted by the possibility that technology offers us to solve problems
-- 🔭 I'm currently studying Design System and Devops
+- 🔭 I'm currently studying Devops
 - 📪 Contact me gustavotheotonio46@gmail.com
 </br>
 
