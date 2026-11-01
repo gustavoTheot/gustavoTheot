@@ -50,7 +50,7 @@ AI_&_Data: LLMs, RAG, pgvector, ChromaDB, MinIO</pre>
   <summary><b>💻 Core Stack (Backend, Frontend & Mobile)</b></summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,fastapi,python,java,spring,react,nextjs,tailwind,styledcomponents&perline=13" alt="Core Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,fastapi,python,java,spring,react,nextjs,tailwind,styledcomponents&perline=13" alt="Core Stack" />
   </p>
 </details>
 
