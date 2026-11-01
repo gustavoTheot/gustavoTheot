@@ -1,57 +1,58 @@
-### Hi there! 👋 I'm Gustavo Theotonio
-</br>
+<div align="center">
 
-I'm a **Full Stack Developer** based in João Pessoa, Brazil. I'm enchanted by the possibilities technology offers us to solve real-world problems and build impactful, scalable SaaS products.
+  <!-- Animação de digitação (Typing SVG) -->
+  <a href="https://github.com/gustavoTheot">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=700&lines=Gustavo+Theotonio+Silva;Software+Engineer+Full+Stack+%26+Mobile;Cloud+Architecture+%7C+Microservices+%7C+Applied+AI+(RAG)" alt="Typing SVG" />
+  </a>
 
-- 💻 **Experience:** I work extensively with **React** and **Node.js** to build complete web applications.
-- 🎓 **Education:** Bachelor's Degree in Computer Science (UFPB) and a Postgraduate degree.
-- 🔭 **Currently Learning:** Expanding my skill set by studying **DevOps** and Data Analysis.
-- 💡 **Interests:** Software architecture, SaaS creation, personal finance, and investing.
-- 📫 **Reach me at:** gustavotheotonio46@gmail.com
-</br>
+  <p align="center">
+    Engenheiro de Software formado em <strong>Ciência da Computação (UFPB)</strong> e pós-graduando em <strong>Engenharia de Software</strong>.<br/>
+    Construindo sistemas escaláveis ponta a ponta (Web, Mobile & Cloud) e soluções com <strong>LLMs & RAG</strong>.
+  </p>
 
-<div align='left'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoTheot&layout=compact&theme=material-palenight" alt="Top Langs" />
+  <!-- Botões de Contato -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gustavo-silva-theotonio/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:gustavotheotonio46@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
 </div>
 
-<br/>
+---
 
-### 🛠️ Skills
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+### 🛠️ Stack Principal & Ferramentas
+
+<div align="center">
+
+  **Back-end, Front-end & Mobile**  
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,java,spring,react,nextjs,tailwind&perline=11" alt="Code Stack" />
+  </p>
+
+  **Dados, Cloud, DevOps & Testes**  
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,aws,docker,gitlab,githubactions,jenkins,cloudflare,linux,jest,cypress&perline=13" alt="Infra Stack" />
+  </p>
+
+  **Arquitetura & Inteligência Artificial**  
+  <p>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Backend--Driven_UI_(BDUI)-0284C7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LLMs_&_RAG-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vector_Search_(pgvector)-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/C4_Model_&_Clean_Arch-0F172A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MinIO_Storage-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+  </p>
+
 </div>
 
-<br/>
+---
 
-### 📫 Let's Connect
-<div>
-  <a href="https://www.linkedin.com/in/gustavo-silva-theotonio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gustavotheotonio46@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCcmc0yfcJR8LqYI-G2Ibg3w">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/gustavothes/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<!-- Animação sutil da cobrinha comendo os commits do seu gráfico (opcional e super clean) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
